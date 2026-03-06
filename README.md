@@ -132,8 +132,19 @@ game-quality-gates/
 ## 🔗 Related
 
 - [Browser-Use Skill](https://github.com/abczsl520/browser-use-skill) — AI browser automation for OpenClaw
+- [Bug Audit](https://github.com/abczsl520/bug-audit-skill) — Dynamic bug hunting (200+ patterns)
+- [Debug Methodology](https://github.com/abczsl520/debug-methodology) — Root-cause debugging
 - [OpenClaw](https://github.com/openclaw/openclaw) — The AI agent platform
-- [ClawHub](https://clawhub.com) — Discover more skills
+
+## 🔗 Part of the AI Dev Quality Suite
+
+| Skill | Purpose | Install |
+|-------|---------|---------|
+| [bug-audit](https://github.com/abczsl520/bug-audit-skill) | Dynamic bug hunting, 200+ pitfall patterns | `clawhub install bug-audit` |
+| [codex-review](https://github.com/abczsl520/codex-review) | Three-tier code review with adversarial testing | `clawhub install codex-review` |
+| [debug-methodology](https://github.com/abczsl520/debug-methodology) | Root-cause debugging, prevents patch-chaining | `clawhub install debug-methodology` |
+| [nodejs-project-arch](https://github.com/abczsl520/nodejs-project-arch) | AI-friendly architecture, 70-93% token savings | `clawhub install nodejs-project-arch` |
+| **game-quality-gates** (this) | 12 universal game dev quality checks | `clawhub install game-quality-gates` |
 
 ## 🤝 Contributing
 
